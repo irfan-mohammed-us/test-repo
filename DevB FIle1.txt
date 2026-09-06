@@ -1,1 +1,2 @@
 This is file from Dev B
+This is New line from Dev B
